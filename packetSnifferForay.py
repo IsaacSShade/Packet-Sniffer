@@ -1,7 +1,7 @@
 """
  * Code was created to learn network code and made alongside thenewboston's series: https://www.youtube.com/watch?v=WGJC5vT5YJo&ab_channel=thenewboston
  * Thought it was possible for a bit to unpack the ethernet frame on Windows using this approach but it's not, leaving me stuck for a bit
- * A good image to keep in mind on how packets work is with https://faculty.cs.niu.edu/~berezin/330/N/frame.html 
+ * A good image to keep in mind on how packets work is with https://faculty.cs.niu.edu/~berezin/330/N/frame.html
  *
  * PROGRAM FUNCTION: Sniffs packets and displays the IP address it's going to, where it came from, and the protocol used (if not UDP or TCP it's a number)
  * TO RUN THIS PROGRAM: it must be run in the cmd with administrator permissions
